@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "babel-plugin-react-require": "^4.0.2"
+  }
+}
