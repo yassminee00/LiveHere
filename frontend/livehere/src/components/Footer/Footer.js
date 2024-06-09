@@ -1,6 +1,6 @@
 
 import React from "react";
-import logo from "../../assets/housify.png";
+import logo from "../../assets/livehere.png";
 import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { NavLink } from "react-router-dom";
 
@@ -22,7 +22,7 @@ function Footer() {
             {/* brand logo goes to top on click */}
             <div className="">
               <a className="" href="/">
-                <img className="h-8 w-70" src={logo} alt="Housify Logo" />
+                <img className="h-8 w-70" src={logo} alt="LiveHere Logo" />
               </a>
             </div>
 
