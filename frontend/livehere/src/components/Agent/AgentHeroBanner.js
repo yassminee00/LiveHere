@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import yassmine from "../../assets/yassmine.jpg";
 import { NavLink } from "react-router-dom";
@@ -26,17 +25,17 @@ const AgentHeroBanner = (props) => {
                   <h5 className="inline-block mr-4">address</h5>
                   <p>7 MCC Avenue, Boston, Canada</p>
                   <h5 className="inline-block mr-4">phonenumber</h5>
-                  <p>+234-890-2033-333</p>
+                  <p>+212-890-2033-333</p>
                   <h5 className="inline-block mr-4">email</h5>
-                  <p>zelipha@email.com</p>
+                  <p>yassmine@email.com</p>
                 </div>
                 <div className="">
                   <h5 className="inline-block mr-4">linkedin</h5>
-                  <p>https://linkedin.com/in/zelipha</p>
+                  <p>https://linkedin.com/in/yassmine</p>
                   <h5 className="inline-block mr-4">twitter</h5>
-                  <p>@zelipha</p>
+                  <p>@yassmine</p>
                   <h5 className="inline-block mr-4">Instagram</h5>
-                  <p>@zelipha_properties</p>
+                  <p>@yassmine_properties</p>
                 </div>
 
                 <button className="mt-10 w-[200px]">
@@ -52,8 +51,8 @@ const AgentHeroBanner = (props) => {
               <div className="img-wrap overflow-hidden bg-zinc-700 rounded-[100px] rounded-tr-none md:w-[90%] md:ml-auto relative">
                 <img
                   className="w-full h-[70vh] object-cover"
-                  src={Zeliq}
-                  alt="Zeliq"
+                  src={yassmine}
+                  alt="yassmine"
                 />
               </div>
               <div className="absolute top-[80%]">
@@ -69,7 +68,7 @@ const AgentHeroBanner = (props) => {
       {isClicked ? (
         <ListPropertyForm />
       ) : (
-        <MoreProperty header="Properties" text="Listed Properties By Zelipha" />
+        <MoreProperty header="Properties" text="Listed Properties By yassmine" />
       )}
     </div>
   );
