@@ -1,14 +1,5 @@
 {
   "devDependencies": {
     "babel-plugin-react-require": "^4.0.2"
-  },
-    "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
-    "build": "webpack --config=Scripts/config/webpack.prod.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "eject": "react-scripts eject"
   }
 }
