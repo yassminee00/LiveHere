@@ -1,6 +1,6 @@
 
 import React, { useState } from "react";
-import logo from "../../assets/housify.png";
+import logo from "../../assets/livehere.png";
 import { NavLink } from "react-router-dom";
 import { AiOutlineMenu, AiOutlineClose } from "react-icons/ai";
 
@@ -15,7 +15,7 @@ function Header() {
       <div className="max-w-[1440px] mx-auto py-6 px-10 flex justify-between">
         <div>
           <NavLink to="/">
-            <img className="h-8 w-70 ml-16" src={logo} alt="Housify logo"></img>
+            <img className="h-8 w-70 ml-16" src={logo} alt="LiveHere logo"></img>
           </NavLink>
         </div>
         <div className="hidden lg:flex">
