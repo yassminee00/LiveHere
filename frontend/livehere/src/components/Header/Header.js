@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import logo from "../../assets/livehere.png";
 import { NavLink } from "react-router-dom";
