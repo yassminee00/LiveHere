@@ -1,4 +1,3 @@
-
 const router = require("express").Router();
 const Property = require("../models/Property");
 const verify = require("../verifyToken");
