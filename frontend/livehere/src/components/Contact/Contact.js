@@ -1,4 +1,3 @@
-
 import React from "react";
 import Header from "../Header/Header";
 import Hero from "../Hero/Hero";
@@ -20,7 +19,7 @@ function Contact() {
       <GoogleMap />
       <ContactFormSection />
       <div className="pt-10 pb-[100px] text-center">
-        <h4>Find A House That Meets Your Need</h4>
+        <h4>Find A House That Meets Your Needs</h4>
         <SearchBar />
       </div>
       <Footer />
