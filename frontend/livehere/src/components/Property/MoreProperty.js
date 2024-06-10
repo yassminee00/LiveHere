@@ -1,4 +1,3 @@
-
 //import React, { useState } from "react";
 import PropertyCard from "../utils/PropertyCard";
 import useFetch from "../utils/useFetch";
