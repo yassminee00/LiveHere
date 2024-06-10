@@ -17,7 +17,7 @@ const Form = () => {
          Name: ${inputs.firstName} ${inputs.lastName}
          Email: ${inputs.email}
          
-         Thank you for registering');
+         Thank you for registering`);
     }
   };
 
@@ -207,4 +207,3 @@ const Form = () => {
 };
 
 export default Form;
-
