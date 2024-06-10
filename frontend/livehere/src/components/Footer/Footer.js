@@ -1,4 +1,3 @@
-
 import React from "react";
 import logo from "../../assets/livehere.png";
 import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
@@ -11,7 +10,7 @@ function Footer() {
         {/* footer header */}
         <div className="col-span-2 pt-10 md:pt-0">
           <h2 className="font-medium">Do You Have Questions With Anything?</h2>
-          <p className="py-6 md:pr-10">Receive Updates, discount rates, expert services, payment details, tutorials sent direct to your inbox.</p>
+          <p className="py-6 md:pr-10">Receive Updates, discount rates, expert services, payment details, and tutorials sent directly to your inbox.</p>
           <div className="md:pr-10">
             <form className="relative pb-4" method="Post" action="">
               <input type={"email"} value={""} className="email rounded-full py-4 px-6 w-full text-black outline-0" placeholder="Enter email" />
