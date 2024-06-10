@@ -1,11 +1,10 @@
-
 const router = require("express").Router();
 const User = require("../models/User");
 const bcrypt = require("bcrypt");
 const verify = require("../verifyToken");
 
 
-//UPADTE
+//UPDATE
 router.put("/:id", verify, async (req, res) => {
   if (req.user.id === req.params.id || req.user.isAdmin) {
     if (req.body.password) {
