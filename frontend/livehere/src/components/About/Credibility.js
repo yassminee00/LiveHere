@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import { VscWorkspaceTrusted } from "react-icons/vsc";
 import { FaToolbox } from "react-icons/fa";
@@ -25,7 +24,7 @@ const Credibility = (props) => {
               Transparent Pricing
             </h5>
             <p className="text-[18px]">
-              See firxed prices before you book. No hidden charges.
+              See fixed prices before you book. There are no hidden charges.
             </p>
           </div>
         </div>
