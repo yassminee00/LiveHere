@@ -1,4 +1,3 @@
-
 import React from "react";
 import { GiSpookyHouse, GiTreehouse, GiSydneyOperaHouse, GiFamilyHouse } from "react-icons/gi";
 
