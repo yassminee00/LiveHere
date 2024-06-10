@@ -1,4 +1,3 @@
-
 import propertyReducer from "./propertyReducer";
 import {createContext, useReducer} from "react";
 
