@@ -1,4 +1,3 @@
-
 import React from "react";
 import { FaUserCircle } from "react-icons/fa";
 
@@ -27,7 +26,7 @@ const Works = (props) => {
                 <FaUserCircle className="text-violet-800	ml-32 mb-4 text-2xl" />
                 <h6>Find A Perfect Home</h6>
                 <p className="text-[12px]">
-                  Use our vast search tool to find you perfect home from anywhere in the world.
+                  Use our vast search tool to find your perfect home from anywhere in the world.
                   <br />
                   <a className="text-violet-600" href="">
                     Explore Homes
