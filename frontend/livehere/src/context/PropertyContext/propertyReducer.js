@@ -1,4 +1,3 @@
-
 const PropertyReducer = (state, action) => {
     switch (action.type) {
       case "GET_PROPERTIES_START":
