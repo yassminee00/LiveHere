@@ -1,4 +1,3 @@
-
 export const getPropertyStart = () => ({
     type: "GET_PROPERTIES_START",
   });
