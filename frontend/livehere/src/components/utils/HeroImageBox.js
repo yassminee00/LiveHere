@@ -1,4 +1,3 @@
-
 import React from "react";
 //import House from "../../assets/h1.jpg";
 
@@ -9,7 +8,7 @@ const HeroImageBox = (props) => {
         <img
           className="w-full h-[75vh] object-cover"
           src={props.url}
-          alt="featured foto"
+          alt="featured photo"
         />
       </div>
       <div className="absolute top-[75%]">
