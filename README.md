@@ -3,7 +3,7 @@
 
 `Solo project` `Web Portfolio project`
 
-> LiveHere is a Property management web app that helps people to rent or buy property at any part of the World. We are using Rapid API to list the available houses, With Agents to facilitate the process. 
+> LiveHere is a Property management web app that helps people to rent or buy property at any part of the World. I am using Rapid API to list the available houses, With Agents to facilitate the process. 
 
 
 ### Task - Full Stack webstack portfolio project(LiveHere)
