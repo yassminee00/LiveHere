@@ -42,7 +42,7 @@ function ContactDetails() {
                 {/* <HiOutlineMail /> */}
               </div>
               <h5>Email Us</h5>
-              <p className="p4">housify@contact.com</p>
+              <p className="p4">livehere@contact.com</p>
             </div>
           </div>
         </div>
