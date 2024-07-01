@@ -12,7 +12,7 @@ function Contact() {
     <div className="Contact">
       <Header />
       <Hero
-        header="Got Some Questions To Ask?"
+        header="Have Some Questions To Ask?"
         text="We would like to know how we can serve you better. We respond within 2 hours."
       />
       <ContactDetails />
