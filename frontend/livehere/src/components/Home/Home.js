@@ -10,7 +10,6 @@ import Service from "../About/Service";
 import Partners from "../utils/Partners";
 import useFetch from "../utils/useFetch";
 import FeaturedProperty from "../Property/FeaturedProperty";
-import FeaturedHomes from "../../assets/h2.jpg";
 
 function Home() {
 
