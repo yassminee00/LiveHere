@@ -3,21 +3,21 @@
 
 `Solo project` `Web Portfolio project`
 
-> LiveHere is a Property management web app that helps people rent or buy property at any part of the World. I am using Rapid API to list the available houses, With Agents to facilitate the process. 
+> LiveHere is a Property management web app that helps people rent or buy property anywhere in the World. I am using Rapid API to list the available houses, With Agents to facilitate the process. 
 
 
-### Task - Full Stack webstack portfolio project(LiveHere)
+### Task - Full Stack web stack portfolio project(LiveHere)
 
 ### alx_africa
-The ALX Holberton Software Engineering programme is a 15-months(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
+The ALX Holberton Software Engineering program is a 15-month (70h/week) immersive program that engages technology enthusiasts and budding software engineers in various programs across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
 
 ## Starting the project
 
 1. Clone the repo to your device.
 2. From the backend directory, create a virtual environment and set the required environment variables.
-3. Start the backend server using by Downloading the installer from [NodeJS WebSite](https://nodejs.org/en/)
+3. Start the backend server by Downloading the installer from [NodeJS WebSite](https://nodejs.org/en/)
     * Run the installer.
-    * Follow the installer steps, agree the license agreement and click the next button.
+    * Follow the installer steps, agree to the license agreement, and click the next button.
     * Restart your system/machine.
     * Now, test NodeJS by printing its version using the following command in Command Prompt:
         * ` node -v `
@@ -34,4 +34,4 @@ AUTHORS
 * Yassmine El Ghalbzouri **[Github](https://github.com/yassminee00)**
 
 
-> Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 
+> Show love by leaving a ⭐️ if you like this project and don't forget to fork, break, and modify 
