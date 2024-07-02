@@ -1,6 +1,4 @@
 # LiveHere
-![LiveHere](https://github.com/yassminee00/Webstack-Portfolio-Project/blob/main/welcome.png)
-
 `Solo project` `Web Portfolio project`
 
 > LiveHere is a Property management web app that helps people rent or buy property anywhere in the World. I am using Rapid API to list the available houses, With Agents to facilitate the process. 
